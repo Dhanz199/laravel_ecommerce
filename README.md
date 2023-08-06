@@ -10,3 +10,8 @@
 ## About Laravel
 
 Test Laravel E-Commerce Brezee
+
+- CRUD Done ✅
+
+- Add Chart Ongoging
+- UI/UX Dashboard Ongoging
